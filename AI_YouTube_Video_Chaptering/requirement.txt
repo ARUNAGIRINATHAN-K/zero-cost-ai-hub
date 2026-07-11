@@ -1,0 +1,15 @@
+# YouTube APIs
+google-api-python-client==2.115.0
+youtube-transcript-api==0.6.2
+
+# Data Processing & Machine Learning
+pandas==2.2.0
+numpy==1.26.4
+scikit-learn==1.4.0
+
+# Optional: Data Visualization (used in the tutorial)
+matplotlib==3.8.2
+
+# API Key Management & GenAI
+python-dotenv==1.0.1
+google-generativeai==0.3.2
