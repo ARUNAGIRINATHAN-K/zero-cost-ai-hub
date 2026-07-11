@@ -1,0 +1,27 @@
+<div align="center">
+
+![alt text](docs/Top.png)
+
+![Area](docs/area.png)
+
+## *All projects are built using completely free & accessible AI APIs*
+
+![Flow](docs/flow.png)
+
+</div>
+
+
+## ✨Featured Projects
+
+| Project | Description | Tech Stack | Status |
+| --- | --- | --- | --- |
+| **[AI YouTube Video Chaptering](AI_YouTube_Video_Chaptering)** | AI Video Chaptering using Python | Python, NLP, YouTube API | ✅Active |
+| **[AI YouTube video Summarizer](AI_YouTube_Video_Summarizer)** | AI System to Summarize YouTube Videos into Notes | Python, NLP, YouTube API | ✅Active |
+| **[Spotify Recommendation Engine]()** | Music Recommendation System using Python | Python, Spotipy API| ⏳ Planned |
+| **[ML Model REST API]()** | Deploy Your First ML Model as a REST API | Python, FastAPI, RandomForest | ⏳ Planned |
+| **[Dockerized ML Deployment]()** | Deploy a Machine Learning Model with Docker | Docker, FastAPI, Python | ⏳ Planned |
+| **[Production LLM API]()** | FastAPI production LLM serving TinyLlama. | Python, FastAPI, TinyLlama | ⏳ Planned |
+| **[GitHub AI Code Reviewer]()** | AI Code Review Bot for GitHub automated private PR reviews. | Python, GitHub API, LLM API | ⏳ Planned |
+| **[Fine-Tuned Code Generator]()** | Build a Python LLM-based code generator. | Python, Hugging Face, GitHub API | ⏳ Planned |
+| **[Gemini Multi-Agent System]()** | Multi-Agent System using Gemini API | Python, Gemini API, LangGraph / CrewAI | ⏳ Planned |
+| **[LLM MCP Server]()** | LLM to MCP server connect models to tools. | Python, FastMCP, Ollama | ⏳ Planned |
