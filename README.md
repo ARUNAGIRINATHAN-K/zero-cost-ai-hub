@@ -17,6 +17,7 @@
 | --- | --- | --- | --- |
 | **[AI YouTube Video Chaptering](AI_YouTube_Video_Chaptering)** | AI Video Chaptering using Python | Python, NLP, YouTube API | ✅Active |
 | **[AI YouTube video Summarizer](AI_YouTube_Video_Summarizer)** | AI System to Summarize YouTube Videos into Notes | Python, NLP, YouTube API | ✅Active |
+| **[Fine-Tuning Qwen3-4B with Unsloth](Fine-Tuning_Qwen3-4B_with_Unsloth)** | End-to-End LLM Fine-Tuning & Distillation | Python, Hugging Face, Groq API | ✅Active |
 | **[Spotify Recommendation Engine]()** | Music Recommendation System using Python | Python, Spotipy API| ⏳ Planned |
 | **[ML Model REST API]()** | Deploy Your First ML Model as a REST API | Python, FastAPI, RandomForest | ⏳ Planned |
 | **[Dockerized ML Deployment]()** | Deploy a Machine Learning Model with Docker | Docker, FastAPI, Python | ⏳ Planned |
